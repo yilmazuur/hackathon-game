@@ -45,13 +45,4 @@ I want you to build a **fast-paced endless runner browser game** called “Volvo
   - `assets/` (for placeholder images + sounds)
 - Code must be modular, well-commented, and easy to extend.
 
-### Deployment
-- Provide instructions in a `README.md` on how to run locally and how to host on GitHub Pages.
-- Ensure the game runs smoothly in Chrome, Firefox, and Safari.
-
-### Stretch Goals (if time allows)
-- Add power-ups (e.g., temporary shield, slow motion).
-- Weather cycles: rain → snow → clear skies.
-- Multiple Volvo-inspired car skins unlockable based on score.
-
 Please generate the initial project code with placeholder assets and comments for where to replace images/sounds later.
