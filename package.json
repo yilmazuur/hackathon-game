@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@volvo-cars/css": "^1.33.0"
+  }
+}
